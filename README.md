@@ -1,7 +1,7 @@
 # EKA Healthcare Auth Proxy - Express.js
 
 repo to be used when initializing eka care's SDK on FE directly
-obtain your client ID, client secret and API key. Click on the `deploy` button below. this makes a repo in your GH account by cloning our repo, initializes a vercel project and connects the project with the cloned repo. And now when initializing the SDK on a FE client side app you can use the domain (that vercel assigns upon successful deployment) and leverage the pre made API route. (more on that, link)
+obtain your client ID, client secret and API key. Click on the `deploy` button below. this makes a repo in your GH account by cloning our repo, initializes a vercel project and connects the project with the cloned repo. And now when initializing the SDK on a FE client side app you can use the domain (that vercel assigns upon successful deployment) and leverage the pre made API route.  read more on using SDK on FE with this template
 
 ## 🚀 One-Click Deploy
 
